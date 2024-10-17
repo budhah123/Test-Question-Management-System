@@ -1,0 +1,2 @@
+hemraj@123:{'Password': 'Hemraj456', 'profile': {'Name': 'Hemraj Budha', 'Address': 'Baneshwor', 'Contact number': '9745705226', 'Date of Birth': '12/01/2024', 'Email Address': 'budhah282@gmail.com', 'Age': 12, 'Citizenship Id': '1234'}}
+kecturer@1123:{'Password': 'Lecturer456', 'profile': {'Name': 'Hemraj', 'Address': 'tikapur', 'Contact number': '9745705226', 'Date of Birth': '12/02/2024', 'Email Address': 'budhah282@gmail.com', 'Age': 23, 'Citizenship Id': '1234564'}}

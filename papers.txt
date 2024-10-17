@@ -1,0 +1,22 @@
+Set 1 - Section A
+Q: Question 1 What is the output of the following Python code: print("Hello, " + "World!")?
+   a) 
+   b) A) Hello, World! B) "Hello, " + "World!" C) Hello World! D) Error
+   c) 
+   d) Question 2 What is the purpose of the len() function in Python?
+Correct option: 
+
+Set 1 - Section B
+Q: Question 3 What is the difference between == and = in Python?
+
+Set 2 - Section A
+Q: 
+   a) Question 4 What is the output of the following Python code: x = 5; y = "5"; print(x == y)?
+   b) 
+   c) A) True B) False C) Error D) None
+   d) 
+Correct option: Question 5 What is the purpose of the range() function in Python?
+
+Set 2 - Section B
+Q: 
+
